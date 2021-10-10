@@ -61,7 +61,6 @@ THEN it showing the reason why we want to create this website and more details <
 
 ## Website
 
-https://ScalexanderB.github.io/activity-music/
 
 ## Screenshots
 Main page (BPM input and add song)<br/>
