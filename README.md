@@ -3,7 +3,7 @@
 ## Description
 
 Train to the Beat is a music search tool that allows tracks to be filtered by tempo and then by genre 
-to create playlists that are tailored to a user’s specific training
+to create playlists that are tailored to a user’s specific training<br/>
 Group project : https://github.com/JunyaQ/activity-music
 
 ## About the application 
